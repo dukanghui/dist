@@ -1,2 +1,0 @@
-# dist
-stock/dist
